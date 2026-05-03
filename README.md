@@ -37,3 +37,5 @@ Normal Senaryo: Şebeke yükü düşük, bataryalar güneşle doluyor.
 Pik Yük Senaryosu: Şebeke baz yükü artar (Sarı mod). Bataryalar araç şarjı sırasında destek verir.
 
 Kritik Yönlendirme: Mahalle B'de yük sınırı aşılır, batarya biter ve yazılım araçları otomatik kaydırır.
+
+sunum linki: https://drive.google.com/drive/folders/15wIJdOcTMZL3nmKapAKMP0EB-Ogm3eTr
